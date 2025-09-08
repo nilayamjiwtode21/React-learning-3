@@ -1,5 +1,10 @@
-3596
-39D:\coder army web dev\react\day3\app.js134017304043763528 0
+3600
+101D:\coder army web dev\react\day3\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c134017233341087300 0
+55D:\coder army web dev\react\day3\node_modules\picomatch134017233339292048 1
+103D:\coder army web dev\react\day3\node_modules\@swc\helpers\cjs\_create_for_of_iterator_helper_loose.cjs134017233340567237 0
+52D:\coder army web dev\react\day3\node_modules\dotenv134017233339372048 1
+42D:\coder army web dev\react\day3\style.css134017856828911995 0
+39D:\coder army web dev\react\day3\app.js134017876887996565 0
 77D:\coder army web dev\react\day3\node_modules\caniuse-lite\data\regions\DK.js134017233343967316 0
 100D:\coder army web dev\react\day3\node_modules\@parcel\core\test\fixtures\custom-targets\package.json134017233342962267 0
 98D:\coder army web dev\react\day3\node_modules\@swc\helpers\_\_iterable_to_array_limit\package.json134017233343937334 0
@@ -34,12 +39,12 @@
 43D:\coder army web dev\react\day3\.gitignore134016244250223696 0
 95D:\coder army web dev\react\day3\node_modules\caniuse-lite\data\features\css-read-only-write.js134017233343122357 0
 78D:\coder army web dev\react\day3\node_modules\.bin\download-lmdb-prebuilds.ps1134017233348967397 0
-37D:\coder army web dev\react\day3\dist134017304046920783 1
+37D:\coder army web dev\react\day3\dist134017876888675510 1
 77D:\coder army web dev\react\day3\node_modules\caniuse-lite\data\regions\RU.js134017233347254651 0
 77D:\coder army web dev\react\day3\node_modules\caniuse-lite\data\regions\GI.js134017233345002566 0
 110D:\coder army web dev\react\day3\node_modules\@swc\helpers\_\_class_static_private_field_spec_get\package.json134017233343287320 0
 88D:\coder army web dev\react\day3\node_modules\@parcel\transformer-babel\src\constants.js134017233339372048 0
-43D:\coder army web dev\react\day3\index.html134017302849114156 0
+43D:\coder army web dev\react\day3\index.html134017856991499185 0
 76D:\coder army web dev\react\day3\node_modules\@parcel\watcher\src\DirTree.cc134017233339040876 0
 45D:\coder army web dev\react\day3\node_modules134017234010413849 1
 95D:\coder army web dev\react\day3\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web134017233341517039 1
@@ -173,18 +178,8 @@
 61D:\coder army web dev\react\day3\node_modules\chalk\readme.md134017233338850790 0
 79D:\coder army web dev\react\day3\node_modules\node-addon-api\node_addon_api.gyp134017233337865656 0
 57D:\coder army web dev\react\day3\node_modules\detect-libc134017233338740793 1
-101D:\coder army web dev\react\day3\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c134017233341087300 0
-55D:\coder army web dev\react\day3\node_modules\picomatch134017233339292048 1
-103D:\coder army web dev\react\day3\node_modules\@swc\helpers\cjs\_create_for_of_iterator_helper_loose.cjs134017233340567237 0
-52D:\coder army web dev\react\day3\node_modules\dotenv134017233339372048 1
 77D:\coder army web dev\react\day3\node_modules\caniuse-lite\data\regions\KM.js134017233345933975 0
 59D:\coder army web dev\react\day3\node_modules\dotenv-expand134017233339140851 1
-60D:\coder army web dev\react\day3\node_modules\to-regex-range134017233338300794 1
-126D:\coder army web dev\react\day3\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd134017233348947382 0
-80D:\coder army web dev\react\day3\node_modules\@parcel\feature-flags\src\types.js134017233338890787 0
-71D:\coder army web dev\react\day3\node_modules\browserslist\package.json134017233339100862 0
-76D:\coder army web dev\react\day3\node_modules\@swc\helpers\cjs\_defaults.cjs134017233340657216 0
-63D:\coder army web dev\react\day3\node_modules\react-refresh\cjs134017233338870786 1
 61D:\coder army web dev\react\day3\node_modules\.bin\semver.cmd134017233348967397 0
 73D:\coder army web dev\react\day3\node_modules\@parcel\config-default\test134017233338170811 1
 66D:\coder army web dev\react\day3\node_modules\electron-to-chromium134017233339532034 1
@@ -243,6 +238,12 @@
 69D:\coder army web dev\react\day3\node_modules\browserslist\browser.js134017233337915659 0
 65D:\coder army web dev\react\day3\node_modules\lmdb\src\cursor.cpp134017233341476832 0
 55D:\coder army web dev\react\day3\node_modules\term-size134017233339232045 1
+60D:\coder army web dev\react\day3\node_modules\to-regex-range134017233338300794 1
+126D:\coder army web dev\react\day3\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd134017233348947382 0
+80D:\coder army web dev\react\day3\node_modules\@parcel\feature-flags\src\types.js134017233338890787 0
+71D:\coder army web dev\react\day3\node_modules\browserslist\package.json134017233339100862 0
+76D:\coder army web dev\react\day3\node_modules\@swc\helpers\cjs\_defaults.cjs134017233340657216 0
+63D:\coder army web dev\react\day3\node_modules\react-refresh\cjs134017233338870786 1
 106D:\coder army web dev\react\day3\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node134017233341487042 0
 55D:\coder army web dev\react\day3\node_modules\type-fest134017233339732026 1
 77D:\coder army web dev\react\day3\node_modules\@parcel\core\lib\projectPath.js134017233342027103 0
@@ -581,11 +582,11 @@
 81D:\coder army web dev\react\day3\node_modules\msgpackr\dist\index-no-eval.cjs.map134017233340397218 0
 89D:\coder army web dev\react\day3\node_modules\@swc\helpers\_\_async_iterator\package.json134017233342952288 0
 68D:\coder army web dev\react\day3\node_modules\term-size\vendor\macos134017233338430806 1
-91D:\coder army web dev\react\day3\node_modules\@parcel\runtime-browser-hmr\lib\HMRRuntime.js134017233338750803 0
-70D:\coder army web dev\react\day3\node_modules\term-size\vendor\windows134017233338710807 1
-77D:\coder army web dev\react\day3\node_modules\caniuse-lite\data\regions\JP.js134017233345774356 0
 78D:\coder army web dev\react\day3\node_modules\@parcel\profiler\lib\Tracer.d.ts134017233339772021 0
 77D:\coder army web dev\react\day3\node_modules\caniuse-lite\data\regions\CK.js134017233341657042 0
+77D:\coder army web dev\react\day3\node_modules\caniuse-lite\data\regions\JP.js134017233345774356 0
+91D:\coder army web dev\react\day3\node_modules\@parcel\runtime-browser-hmr\lib\HMRRuntime.js134017233338750803 0
+70D:\coder army web dev\react\day3\node_modules\term-size\vendor\windows134017233338710807 1
 68D:\coder army web dev\react\day3\node_modules\semver\functions\gt.js134017233339552025 0
 77D:\coder army web dev\react\day3\node_modules\caniuse-lite\data\regions\SY.js134017233347954787 0
 70D:\coder army web dev\react\day3\node_modules\commander\lib\command.js134017233338510812 0
@@ -782,8 +783,8 @@
 71D:\coder army web dev\react\day3\node_modules\semver\functions\rsort.js134017233340557232 0
 84D:\coder army web dev\react\day3\node_modules\@parcel\packager-js\src\DevPackager.js134017233339020884 0
 77D:\coder army web dev\react\day3\node_modules\caniuse-lite\data\regions\FR.js134017233344852530 0
-81D:\coder army web dev\react\day3\node_modules\postcss-value-parser\lib\index.d.ts134017233339192022 0
 76D:\coder army web dev\react\day3\node_modules\@swc\helpers\src\_identity.mjs134017233345183979 0
+81D:\coder army web dev\react\day3\node_modules\postcss-value-parser\lib\index.d.ts134017233339192022 0
 76D:\coder army web dev\react\day3\node_modules\@swc\helpers\cjs\_inherits.cjs134017233340867211 0
 83D:\coder army web dev\react\day3\node_modules\caniuse-lite\data\features\ch-unit.js134017233341557019 0
 75D:\coder army web dev\react\day3\node_modules\semver\functions\satisfies.js134017233340577213 0
@@ -1442,7 +1443,7 @@
 77D:\coder army web dev\react\day3\node_modules\caniuse-lite\data\regions\BT.js134017233341402447 0
 90D:\coder army web dev\react\day3\node_modules\@parcel\workers\src\process\ProcessWorker.js134017233340397218 0
 104D:\coder army web dev\react\day3\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\intro.doc134017233341677043 0
-54D:\coder army web dev\react\day3\dist\day3.f72d0d54.js134017304046811007 0
+54D:\coder army web dev\react\day3\dist\day3.f72d0d54.js134017876888599400 0
 80D:\coder army web dev\react\day3\node_modules\@parcel\reporter-cli\src\render.js134017233339572036 0
 102D:\coder army web dev\react\day3\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\LICENSE134017233339232045 0
 101D:\coder army web dev\react\day3\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\lmdb.h134017233341777014 0
@@ -1923,7 +1924,7 @@
 77D:\coder army web dev\react\day3\node_modules\caniuse-lite\data\regions\PN.js134017233346959182 0
 87D:\coder army web dev\react\day3\node_modules\@parcel\packager-html\src\HTMLPackager.js134017233338270808 0
 77D:\coder army web dev\react\day3\node_modules\caniuse-lite\data\regions\PR.js134017233346999233 0
-58D:\coder army web dev\react\day3\dist\day3.f72d0d54.js.map134017304046910793 0
+58D:\coder army web dev\react\day3\dist\day3.f72d0d54.js.map134017876888665426 0
 77D:\coder army web dev\react\day3\node_modules\caniuse-lite\data\regions\PS.js134017233347049295 0
 77D:\coder army web dev\react\day3\node_modules\caniuse-lite\data\regions\PT.js134017233347059297 0
 77D:\coder army web dev\react\day3\node_modules\caniuse-lite\data\regions\PY.js134017233347089329 0
@@ -2656,7 +2657,7 @@
 77D:\coder army web dev\react\day3\node_modules\@swc\helpers\src\_construct.mjs134017233345062644 0
 80D:\coder army web dev\react\day3\node_modules\@swc\helpers\src\_create_class.mjs134017233345062644 0
 80D:\coder army web dev\react\day3\node_modules\@swc\helpers\src\_create_super.mjs134017233345092653 0
-48D:\coder army web dev\react\day3\dist\index.html134017304045994271 0
+48D:\coder army web dev\react\day3\dist\index.html134017876281400101 0
 80D:\coder army web dev\react\day3\node_modules\@parcel\graph\lib\AdjacencyList.js134017233338510812 0
 96D:\coder army web dev\react\day3\node_modules\@swc\helpers\src\_define_enumerable_properties.mjs134017233345122638 0
 71D:\coder army web dev\react\day3\node_modules\@swc\helpers\src\_get.mjs134017233345162644 0
@@ -3595,3 +3596,6 @@
 57D:\coder army web dev\react\day3\node_modules\.bin\parcel134017233348967397 0
 61D:\coder army web dev\react\day3\node_modules\.bin\semver.ps1134017233348967397 0
 77D:\coder army web dev\react\day3\node_modules\.bin\update-browserslist-db.cmd134017233348977392 0
+55D:\coder army web dev\react\day3\dist\day3.3a01df49.css134017876281450099 0
+59D:\coder army web dev\react\day3\dist\day3.3a01df49.css.map134017876281460101 0
+54D:\coder army web dev\react\day3\dist\day3.43f11c92.js134017304673557753 0
